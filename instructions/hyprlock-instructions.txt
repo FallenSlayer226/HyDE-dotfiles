@@ -1,0 +1,2 @@
+All icons go into /var/lib/AccountsService/icons
+theme.conf goes into ~/.config/hypr/hyprlock/theme.conf

@@ -1,0 +1,6 @@
+itachi.face.icon goes into /usr/share/sddm/faces/
+theme.conf goes into /usr/share/sddm/themes/Corners/
+
+## For theme_bloodborne ##
+theme_bloodborne goes into /usr/share/sddm/themes/Corners
+Before being copied remove _bloodborne from the name

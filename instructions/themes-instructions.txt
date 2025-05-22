@@ -1,0 +1,3 @@
+Put Vanta Black folder into .config/hyde/themes/ folder
+Put hypr.theme file into .config/hyde/themes/ folder
+Put wallpapers into the .config/hyde/themes/wallpapers

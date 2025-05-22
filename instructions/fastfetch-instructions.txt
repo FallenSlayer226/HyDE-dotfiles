@@ -1,0 +1,2 @@
+Put config.jsonc into the .config/fastfetch
+Put the logo(s) into .config/fastfetch/logo

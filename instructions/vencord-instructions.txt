@@ -1,0 +1,2 @@
+Install vencord
+Go into the settings on Disocrd and place the new-midnight-modified.theme.css file into the theming folder

@@ -1,0 +1,4 @@
+Put the config.json into the .config/hydepanel/ folder
+Put the _common.scss into the .config/hydepanel/styles/common/ folder
+Put the vantablack.scss into the .config/hydepanel/styles/themes/ folder
+For any future themes put into the .config/hydepanel/styles/themes/ folder, then change int eh config.json located in .config/hydepanel/ folder

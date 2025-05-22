@@ -1,0 +1,2 @@
+Put the grub file into the /etc/default/ folder
+To drag and drop into the folder run sudo chown ($USER):wheel /etc/default/
